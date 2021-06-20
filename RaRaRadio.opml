@@ -3,8 +3,11 @@
 <expansionState/>
 </head>
 <body>
-<outline text="RaRaRadio">
+<outline text="Eclectic Radio">
 <outline text="RaRaRadio" type="audio" URL="https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8" icon="https://rararadio.org/wp-content/uploads/2019/12/Rararadio-logo-correct-colors.png"/>
+<outline text="Mother Earth Radio" type="audio" URL="https://www.streamserver24.com/metafiles/motherearth.pls" icon="https://motherearthradio.de/images/folder.jpg"/>
+
+</outline>
 
 </outline>
 </body>
