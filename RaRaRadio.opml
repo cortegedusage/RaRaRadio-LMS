@@ -6,6 +6,8 @@
 <outline text="Eclectic Radio">
 <outline text="RaRaRadio" type="audio" URL="https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8" icon="https://rararadio.org/wp-content/uploads/2019/12/Rararadio-logo-correct-colors.png"/>
 <outline text="Mother Earth Radio" type="audio" URL="https://www.streamserver24.com/metafiles/motherearth.pls" icon="https://motherearthradio.de/images/folder.jpg"/>
+<outline text="Sektor Progressive" type="audio" URL="http://89.223.45.5:8000/progressive-flac" icon="http://sectorradio.com/icons/progressive-256.png"/>
+<outline text="Sektor Classical" type="audio" URL="http://89.223.45.5:8000/nota-flac" icon="http://sectorradio.com/icons/progressive-256.png"/>
 
 </outline>
 
